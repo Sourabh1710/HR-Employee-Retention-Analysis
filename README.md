@@ -109,4 +109,4 @@ It is ideal for showcasing skills in:
 **Sourabh Sonker**  
 Aspiring Data Scientist
 
-_“Driven by data, powered by curiosity.”_
+
