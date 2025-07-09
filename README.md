@@ -40,19 +40,19 @@ It simulates a business use case where a company’s HR team wants to reduce att
 ## 📈 Visual Insights
 
 ### 🔷 Attrition Rate by Job Role  
-<sub><i>Seaborn Static Chart</i></sub>  
+#### <sub><i>Seaborn Static Chart</i></sub>  
 ![Attrition Rate by Job Role](https://github.com/Sourabh1710/HR-Employee-Retention-Analysis/blob/main/Attrition%20Rate%20by%20Job%20Role.png)
 
 ### 🔷 Attrition Rate by Department  
-<sub><i>Plotly Interactive Chart</i></sub>  
+#### <sub><i>Plotly Interactive Chart</i></sub>  
 ![Attrition Rate by Department](https://github.com/Sourabh1710/HR-Employee-Retention-Analysis/blob/main/attrition_by_department_plotly.png)
 
 ### 🔷 Attrition Rate by Tenure Bucket  
-<sub><i>Plotly Interactive Chart</i></sub>  
+#### <sub><i>Plotly Interactive Chart</i></sub>  
 ![Attrition Rate by Tenure Bucket](https://github.com/Sourabh1710/HR-Employee-Retention-Analysis/blob/main/Attrition%20Rate%20by%20Tenure%20Bucket%20Plotly.png)
 
 ### 📋 Top Ranked Salaries by Department  
-<sub><i>Plotly Table</i></sub>  
+#### <sub><i>Plotly Table</i></sub>  
 ![Top Ranked Salaries](https://github.com/Sourabh1710/HR-Employee-Retention-Analysis/blob/main/Top%20Ranked%20Salaries%20by%20Department%20Plotly.png)
 
 ---
